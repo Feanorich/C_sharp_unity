@@ -1,0 +1,5 @@
+﻿GoodBonus и BadBonus выводят Gizmos 
+
+Editor\BonusesGeneratorWindow окно, в котором заполнив нужные поля, можно расставить бонусы по карте
+
+расстановкой занимается класс BonusesGenerator 
