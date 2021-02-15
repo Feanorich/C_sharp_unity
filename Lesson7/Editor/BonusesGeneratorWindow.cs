@@ -90,8 +90,6 @@ namespace Geekbrains
             BonusesGenerator BG = new BonusesGenerator(_goodBonus, _badBonus, _parent,
                 _road, _forbiddenField, _goodBonuses, _badBonuses, _heigh);
             BG.GenerateBonuses();
-
-            Debug.Log("ахах сасай");
         }
 
         private bool CheckFills()

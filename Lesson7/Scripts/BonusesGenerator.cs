@@ -52,9 +52,6 @@ namespace Geekbrains
                     _places.Add(place);
             }
 
-            Debug.Log(count);
-            Debug.Log(_places.Count);                    
-
             PlaceBonuses(_goodPrephub, _goodBonuses, _parentGoodName);
 
             PlaceBonuses(_badPrephub, _badBonuses, _parentBadName);
